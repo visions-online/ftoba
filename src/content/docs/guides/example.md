@@ -1,11 +1,11 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: Legal Document Workflow Guide
+description: This guide outlines the workflow for legal document creation and approval.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Creating a legal document requires careful attention to detail and adherence to regulations. 
+This guide breaks down the process into manageable steps..
 
 ## Further reading
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- Read more information about legal document drafting

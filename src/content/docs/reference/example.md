@@ -1,11 +1,13 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Legal Document Drafts
+description: This page contains templates of legal documents for you to adapt for your use.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+This section provides draft legal documents that you can use as templates. These documents are intended as starting points and should be reviewed and adapted by a legal professional to ensure they meet your specific requirements.
 
-## Further reading
+Here you will find examples of various legal documents. These are meant to be adapted for each individual's use, and should not be viewed as legal advice.
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+## Further Reading
+
+-   Consult with a legal professional for personalized legal advice.
+- View more information about the legal document creation process.
