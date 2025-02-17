@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Fuck the OBA',
+			title: 'FUCK the O.B.A.',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
