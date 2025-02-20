@@ -7,21 +7,25 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'FUCK the O.B.A.',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
 			sidebar: [
+				{
+					label: 'Court Documents',
+					items: [
+						{ label: 'Federal Lawsuit', slug: 'reference/federal-lawsuit/' },
+						{ label: 'Supporting Exhibits', slug: 'reference/exhibits/' },
+						{ label: 'Emergency Motions', slug: 'reference/emergency-motions/' },
+						{ label: 'State Proceedings', slug: 'reference/state-proceedings/' }
+					]
+				},
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+						{ label: 'Case Summaries', slug: 'guides/case-summaries' },
+						{ label: 'Document Navigation', slug: 'guides/document-navigation' },
+						{ label: 'Understanding Exhibits', slug: 'guides/understanding-exhibits' },
+						{ label: 'Legal Templates', slug: 'guides/filing-templates' }
+					]
+				}
 			],
 		}),
 	],
