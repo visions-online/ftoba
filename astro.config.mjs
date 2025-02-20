@@ -11,10 +11,10 @@ export default defineConfig({
 				{
 					label: 'Court Documents',
 					items: [
-						{ label: 'Federal Lawsuit', slug: 'reference/federal-lawsuit/_index' },
-						{ label: 'Supporting Exhibits', slug: 'reference/exhibits/_index' },
-						{ label: 'Emergency Motions', slug: 'reference/emergency-motions/_index' },
-						{ label: 'State Proceedings', slug: 'reference/state-proceedings/_index' }
+						{ label: 'Federal Lawsuit', slug: 'reference/federal-lawsuit' },
+						{ label: 'Supporting Exhibits', slug: 'reference/exhibits' },
+						{ label: 'Emergency Motions', slug: 'reference/emergency-motions' },
+						{ label: 'State Proceedings', slug: 'reference/state-proceedings' }
 					]
 				},
 				{
