@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://ottowa.netlify.app',
+	site: 'https://ftoba.netlify.app',
 	integrations: [
 		starlight({
 			title: 'FUCK the O.B.A.',
